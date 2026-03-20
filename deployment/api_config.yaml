@@ -1,0 +1,13 @@
+api:
+  title: "Evoastra Supply Chain Forecast API"
+  version: "1.0.0"
+  host: "0.0.0.0"
+  port: 8000
+
+model:
+  random_forest: "models/random_forest.pkl"
+  xgboost: "models/xgboost.pkl"
+  neural_network: "models/neural_network.h5"
+
+logging:
+  level: "info"
