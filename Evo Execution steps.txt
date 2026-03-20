@@ -1,0 +1,35 @@
+Statiscal Analysis :
+
+pip install pandas numpy scipy statsmodels matplotlib seaborn jupyter
+
+pip install scikit-learn plotly
+
+
+
+
+
+Regression_Analysis :
+
+
+pip install shap
+
+(To Convert nto Excel)
+pip install openpyxl
+
+
+
+Advanced_Models :
+
+pip install xgboost
+
+pip install optuna
+
+pip install shap lime eli5
+
+
+
+
+execution in CMD :
+
+
+python main_pipeline.py
