@@ -1,0 +1,10 @@
+KPI,Value,Target,Status
+Order Fulfillment Rate,41.7%%,³90%,n
+Late Delivery Rate,58.3%%,£10%,n
+Avg Shipping Delay (days),0.62 days,£0 days,n
+Perfect Order Rate,29.9%%,³85%,n
+Profit Margin %,10.9%%,³10%,n
+Cost-to-Serve ($ per order),$172.86,Minimize,n
+Total Units Sold,"122,930.0",Maximize,n
+Avg Order Cycle Time (days),3.41 days,£5 days,n
+Revenue per Order ($),$194.02,Increase,n
